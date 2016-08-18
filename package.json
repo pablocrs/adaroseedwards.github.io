@@ -15,7 +15,7 @@
   "author": "Ada Rose Edwards <ada@ada.is>",
   "license": "MIT",
   "devDependencies": {
-    "nodemon": "^1.8.1"
+    "nodemon": "^1.10.1"
   },
   "dependencies": {
     "babel-preset-es2015-rollup": "^1.2.0",
